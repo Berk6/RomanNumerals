@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwgbmGOGZXLor5ifNmZgwXsYcT2LwJWl1NwKFgQ45/qzQrQKtvzY47nrwRa5QcK5nFJuTTKN4DO1nZo41UtdSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Berk\\Desktop\\C# Codes\\ROMA RAKAMI\\ConsoleApp15\\ConsoleApp15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Berk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
