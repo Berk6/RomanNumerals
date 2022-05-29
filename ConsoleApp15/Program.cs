@@ -10,7 +10,6 @@ namespace ConsoleApp15
             int sayac = 1;
             for (int i = 0; i < sayac; i++)
             {
-
             Console.WriteLine("(1) Roma Rakamlarıyla yazılmış sayıyı Latin sayısına döndürmek için 1 yazın ve onaylayın");
             Console.WriteLine("(2) Latin Rakamlarıyla yazılmış sayıyı Roma sayısına döndürmek için 2 yazın ve onaylayın");
             try
@@ -36,7 +35,6 @@ namespace ConsoleApp15
                             continue;
                         }
                     Console.WriteLine(result);
-
                     break;
                 case 2:
                     Console.WriteLine("Lütfen dönüştürmek istediğiniz Roma Sayısını girin");
@@ -59,8 +57,7 @@ namespace ConsoleApp15
             if (quit!="quit")
             {
                 sayac++;
-            }
-            
+            }    
             }
         }
     }
