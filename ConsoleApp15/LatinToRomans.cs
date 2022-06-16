@@ -57,7 +57,6 @@ namespace ConsoleApp15
                 {
                     for (int i = 0; i < onesDigit; i++)
                     {
-
                         total += "I";
                     }
                 }
